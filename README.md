@@ -1,4 +1,4 @@
-#Todo App
+# Todo App
 
 ## Overview
 This is a simple Todo app built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with a touch of Material UI for a sleek and responsive user interface. The project adheres to TypeScript strict mode, ensuring type safety throughout the application. Additionally, server management is handled by PM2, and backend validation is implemented using the Zod library.
